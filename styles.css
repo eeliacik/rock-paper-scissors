@@ -5,3 +5,7 @@ html {
 body {
     margin: 0;
 }
+
+.play-area {
+    padding: 20px;
+}
